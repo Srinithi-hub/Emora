@@ -1,0 +1,58 @@
+# Emora 💬🌸
+
+**An AI-powered emotional support chatbot designed to help people overcome depression, anxiety, and emotional stress.**
+
+---
+
+## 🌟 About Emora
+
+Emora is a heartfelt initiative that combines empathy and technology. Built as a responsive web-based chatbot, Emora detects emotional keywords from user inputs and responds with strong, comforting advice. It supports **voice input** and **female voice output**, creating a more personal, human-like interaction.
+
+This project aims to support mental well-being and provide users a safe space to express themselves.
+
+---
+
+## 🔧 Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript  
+- **Backend / Database**: Firebase (Firestore)  
+- **Voice Features**: Web Speech API (Speech-to-Text and Text-to-Speech)  
+- **Hosting**: GitHub Pages / Firebase Hosting (optional)
+
+---
+
+## 🧠 Key Features
+
+- Detects emotional keywords like *sad*, *anxious*, *depressed*, *happy*, *betrayed*, etc.
+- Provides unique, heartfelt responses for each emotion
+- Voice input and output for real-time conversation
+- Messages are stored in Firebase Firestore
+- Clean and user-friendly interface
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Firebase account with a connected Firestore database
+- Basic HTML/CSS/JavaScript knowledge
+
+### Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/emora.git
+   cd emora
+ Inspiration
+“Sometimes just a few kind words can change someone’s entire day.”
+— Emora is that voice of kindness when you need it the most.
+
+This project was born out of a desire to blend compassion with code, providing a safe digital companion for anyone struggling emotionally.
+
+Made With Love By
+Srinithi – An engineering student, a dreamer, and a passionate coder on a mission to make technology more human.
+ Contact
+Got feedback or ideas to collaborate?
+📩 Reach out on www.linkedin.com/in/
+srinithi-r-033191303
+📧 Email:srinithi1802@gmail.com
